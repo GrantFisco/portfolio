@@ -17,7 +17,7 @@ export default function Hero() {
           View My Work
         </a>
         <a 
-          href="mailto:your-email@example.com" 
+          href="mailto:grantfisco@icloud.com?subject=Portfolio Inquiry" 
           className="px-6 py-3 bg-gray-100 text-gray-900 rounded-lg font-medium hover:bg-gray-200 transition-colors"
         >
           Get in Touch

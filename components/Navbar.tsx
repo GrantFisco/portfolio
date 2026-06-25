@@ -14,7 +14,7 @@ export default function Navbar() {
         <Link href="/blog" className="hover:text-black transition-colors">
           Blog
         </Link>
-        <a href="https://github.com" target="_blank" rel="noreferrer" className="hover:text-black transition-colors">
+        <a href="https://github.com/GrantFisco" target="_blank" rel="noreferrer" className="hover:text-black transition-colors">
           GitHub
         </a>
       </div>

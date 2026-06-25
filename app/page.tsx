@@ -30,7 +30,7 @@ export default function Home() {
       </main>
 
       <footer className="py-8 text-center text-gray-500 text-sm">
-        <p>© {new Date().getFullYear()} Your Name. Built with Next.js & Tailwind.</p>
+        <p>© {new Date().getFullYear()} Grant Fisco. Built with Next.js & Tailwind.</p>
       </footer>
     </div>
   );
